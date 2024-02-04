@@ -1,35 +1,27 @@
-# LeetShare 🚀
+# LeetShare 🎉
 
-Welcome to LeetShare, the ultimate tool for coding warriors who collaborate on conquering Leetcode challenges together! 🛠️
+Easily manage your shared LeetCode premium accounts.
 
 <p align="center"><img src="image.png" width=500 /></p>
 
-## What is LeetShare? 🤔
+## About 📖
 
-LeetShare is a nifty Chrome extension designed for folks sharing premium Leetcode accounts to manage their sessions like a pro. It cleverly intercepts any code submissions and swiftly switches to your personal session right before the submission hits the server. This means your streaks, solutions, and progress stay yours, no matter who else is logged into the account. No more session mix-ups when your buddy decides to tackle a binary tree at the same time as you're sorting arrays! 🌳 ➡️ 📈
+LeetShare is a nifty tool for tech enthusiasts who pool resources to access LeetCode's premium content. It's all fun and games until you realize that using the same account simultaneously messes with everyone's sessions. That's where LeetShare comes in! This extension is your behind-the-scenes hero, ensuring that when you hit that submit button, it's your session that gets the credit, not your buddy's. Say goodbye to the frustration of session mix-ups and hello to seamless coding sessions. Whether you're tackling daily challenges or grinding through interview prep, LeetShare keeps your focus on the code, not the logistics.
 
-## Why Not Manifest V3? 🤷‍♂️
+## Why Manifest v2? 🛠️
 
-We're rolling with `manifest_version: 2` because, honestly, V3 was a pain to work with (and might get the axe later this year 😂). So we're keeping it old school for the sake of simplicity and sanity. V2's got our back and hopefully yours too!
+I chose Manifest v2 because v3 is a pain in the ass and doesn't let me block requests (we need to block requests to `/submit` so that we can send the session switching request first). In short, v2 keeps things simple and straightforward, letting us do what we need without the extra headache. It's all about keeping the coding flow smooth and stress-free.
 
-## Getting Started 🌟
+## Installation 🚀
 
-Wanna get LeetShare up and running? Follow these simple steps:
+1. Download this repository or clone it.
+2. Open `chrome://extensions` in your Chromium-based browser.
+3. Enable 'Developer mode' at the top-right.
+4. Click 'Load unpacked' and select the LeetShare directory.
+5. You're all set!
 
-1. Clone the repo or download the ZIP of our project.
-2. Unzip (if you downloaded the ZIP) and navigate to `chrome://extensions` in your favorite Chromium-based browser.
-3. Enable `Developer mode` at the top right corner. (Yep, feel like a hacker! 💻🕶️)
-4. Click on `Load unpacked` and select the directory where you've got LeetShare chilling.
-5. Voilà! The extension should now be part of your browser squad, ready to guard your sessions.
+## Contribute 💖
 
-## Friendly Reminder 📌
+Found LeetShare helpful? Give us a star and share with friends!
 
-LeetShare is meant to be a fair use tool for educational purposes. Please ensure you're abiding by Leetcode's terms of use and not violating any rules. Play nice, code right, and happy Leetcoding! 👩‍💻👨‍💻
-
-## Contributing 🤝
-
-Got ideas to make LeetShare even more awesome? Fork the repo, make your changes, and hit us up with a pull request. Let's make managing coding sessions a breeze for everyone! 🌬️🍃
-
----
-
-Remember, LeetShare is all about keeping your coding flow smooth and personal, even when sharing. So share the load, not the code! 😉
+Share the load, not the code! 😉
