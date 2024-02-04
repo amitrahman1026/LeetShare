@@ -2,6 +2,8 @@
 
 Welcome to LeetShare, the ultimate tool for coding warriors who collaborate on conquering Leetcode challenges together! 🛠️
 
+![Alt text](image.png)
+
 ## What is LeetShare? 🤔
 
 LeetShare is a nifty Chrome extension designed for folks sharing premium Leetcode accounts to manage their sessions like a pro. It cleverly intercepts any code submissions and swiftly switches to your personal session right before the submission hits the server. This means your streaks, solutions, and progress stay yours, no matter who else is logged into the account. No more session mix-ups when your buddy decides to tackle a binary tree at the same time as you're sorting arrays! 🌳 ➡️ 📈
