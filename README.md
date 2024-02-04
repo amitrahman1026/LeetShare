@@ -2,7 +2,7 @@
 
 Welcome to LeetShare, the ultimate tool for coding warriors who collaborate on conquering Leetcode challenges together! 🛠️
 
-![Alt text](image.png)
+<img src="image.png" style="zoom: 33%;" />
 
 ## What is LeetShare? 🤔
 
