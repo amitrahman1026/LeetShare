@@ -2,8 +2,6 @@
 
 Welcome to LeetShare, the ultimate tool for coding warriors who collaborate on conquering Leetcode challenges together! 🛠️
 
-
-
 <p align="center"><img src="image.png" width=500 /></p>
 
 ## What is LeetShare? 🤔
