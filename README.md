@@ -1,12 +1,12 @@
 # LeetShare 🎉
 
-Easily manage your shared LeetCode premium accounts.
+Easily manage your multiple ~~personalities~~ Leetcode profiles.
 
 <p align="center"><img src="image.png" width=500 /></p>
 
 ## About 📖
 
-LeetShare is a nifty tool for tech enthusiasts who pool resources to access LeetCode's premium content. It's all fun and games until you realize that using the same account simultaneously messes with everyone's sessions. That's where LeetShare comes in! This extension is your behind-the-scenes hero, ensuring that when you hit that submit button, it's your session that gets the credit, not your buddy's. Say goodbye to the frustration of session mix-ups and hello to seamless coding sessions. Whether you're tackling daily challenges or grinding through interview prep, LeetShare keeps your focus on the code, not the logistics.
+LeetShare is a nifty tool for tech enthusiasts who have to manage multiple profiles. It's all fun and games until you realize that using the same account on multiple devices messes with different sessions. That's where LeetShare comes in! This extension is your behind-the-scenes hero, ensuring that when you hit that submit button, it's device's specific session that gets the credit, not your neighbour's dog's ipad you also happened to be logged into. Say goodbye to the frustration of session mix-ups and hello to seamless coding sessions. Whether you're tackling daily challenges or grinding through interview prep, LeetShare keeps your focus on the code, not the logistics.
 
 ## Why Manifest v2? 🛠️
 
